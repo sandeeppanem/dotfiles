@@ -10,11 +10,11 @@
 	whitespace = fix
 
 [user]
-	name = Subho Banerjee
-	email = subs.zero@gmail.com
+	name = Sandeep Panem
+	email = sandeep.panem870@gmail.com[user]
 
 [github]
-	user = subszero
+	user = sandeeppanem
 
 [difftool]
 	prompt = false
@@ -39,9 +39,6 @@
 	branch = auto
 	ui = true
 	interactive = auto
-
-[credential]
-	helper = osxkeychain
 
 [branch]
 	autosetupmerge = always

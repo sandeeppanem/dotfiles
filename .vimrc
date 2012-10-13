@@ -60,7 +60,6 @@ endif
 			set guioptions+=e
 			set lines=40                        "40 lines of text instead of 24
 			set guitablabel=%M\ %t
-			set fuoptions=maxvert,maxhorz
 		else
 			set term=xterm                      "Make arrow and other keys work
 			"Drag and drop support for mac terminal
