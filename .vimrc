@@ -92,9 +92,9 @@ endif
 		call Pl#Theme#InsertSegment('ws_marker', 'after', 'lineinfo') "Get trailing whitespace
 		if has('gui_running')
 			if has("gui_gtk2")
-				set guifont=Monaco\ for\ Powerline\ 12
+				set guifont=Monaco\ for\ Powerline\ 10
 			else
-				set guifont=Monaco\ for\ Powerline:h12
+				set guifont=Monaco\ for\ Powerline:h10
 			endif
 			let g:Powerline_symbols = 'fancy'
 		else
